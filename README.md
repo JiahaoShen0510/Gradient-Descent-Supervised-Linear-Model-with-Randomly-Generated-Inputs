@@ -1,4 +1,4 @@
-Train the supervised linear model to match the target result through the both L1 & L2 Loss Functions. The inputs are being randomly generated from -100 to 100.
+Train the supervised linear model to match the target result through the both L1 & L2 Loss Functions. The inputs are being randomly generated from -100 to 100, with 100,000 observations in total. 
 
 Identify the learning rate of 0.0003 for L1 and 0.0005 for L2, and run 10,000 times for L1 and 5,000 times for L2. 
 
